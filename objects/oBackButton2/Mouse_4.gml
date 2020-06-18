@@ -6,3 +6,9 @@ if(global.sound){
 	audio_play_sound(Sound,1,false);
 }
 global.hint_zoom = false;
+
+global.TQuestionChoose = false;
+global.TAnswerChoose = false;
+global.AnswerChoose = false;
+
+global.answerText = "";

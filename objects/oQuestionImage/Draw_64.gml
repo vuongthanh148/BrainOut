@@ -2,7 +2,9 @@
 // You can write your code in this editor
 x = global.playScreen_Pos;
 draw_set_alpha(1);
-global.question_text = "What is the maximum number of pieces that a watermelon can be cut into with 10 cuts?";
+global.question_text = global.question_text_saver;
 draw_set_font(boldquestion);
 draw_set_color(c_black);
-draw_text_ext(global.playScreen_Pos - 290, 140, string(global.question_text),50,600);
+image_index = global.curIndex;
+if(string_width(global.question_text) > 600) draw_text_ext(global.playScreen_Pos - 290, 140, string(global.question_text),50,600);
+else draw_text(global.playScreen_Pos - string_width(global.question_text)/2, 140, string(global.question_text));

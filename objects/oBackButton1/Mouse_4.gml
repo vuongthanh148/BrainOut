@@ -6,3 +6,9 @@ global.homeScreen_Left = false;
 if(global.sound){
 	audio_play_sound(Sound,1,false);
 }
+
+global.TQuestionChoose = false;
+global.TAnswerChoose = false;
+global.AnswerChoose = false;
+
+oTButtonOK.set = false;
