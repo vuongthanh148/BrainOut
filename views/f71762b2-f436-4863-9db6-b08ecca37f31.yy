@@ -10,6 +10,7 @@
         "db97d4ee-71f2-4727-91c3-ff59bcd12367",
         "8a1b1fb6-9f30-456d-9a1b-60a6feace878",
         "da2debfa-823a-4b9f-a10d-70e32eec2047",
+        "026762ec-0cd6-4762-b493-0c8a2c119a48",
         "128e21aa-000e-48eb-9abb-a301e568d22e",
         "b5436dad-3581-40bc-b10a-2fed31e68f86",
         "9b15e054-f831-414d-93c6-7e6274619129",
@@ -17,7 +18,8 @@
         "a3f215b9-ae0d-4203-a56d-28b0bdca0d22",
         "68a2f55d-c100-4faa-a56c-62246a31794a",
         "a4baedd0-3959-40e0-bd4b-0356cb043545",
-        "b3e877f1-c541-4e76-bd89-81bbbc421b35"
+        "b3e877f1-c541-4e76-bd89-81bbbc421b35",
+        "9ff3b685-b436-483a-9f22-6b9559010741"
     ],
     "filterType": "GMSprite",
     "folderName": "playScreen",
