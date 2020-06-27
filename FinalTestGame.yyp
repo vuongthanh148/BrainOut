@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "0c4ed667-7d46-4144-8fab-5fe7c15e85a8",
+            "Value": {
+                "id": "97a24fe3-6a82-4834-a8fb-d5cdb1989490",
+                "resourcePath": "objects\\obj_allow_data_uri_test\\obj_allow_data_uri_test.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0e16f8b5-e3fe-45e8-988f-13eea423b6d0",
             "Value": {
                 "id": "8795ef54-6465-41ba-9c7a-e20d66b44c7f",
@@ -188,6 +196,14 @@
                 "id": "ae791b74-e258-45aa-bc47-34f5b96e024b",
                 "resourcePath": "objects\\oBgTop\\oBgTop.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1c6cfdff-88ce-4a1d-ac03-c465324ffd81",
+            "Value": {
+                "id": "76568c0c-91df-40dd-9f1d-77c05e875b73",
+                "resourcePath": "sprites\\sprite43\\sprite43.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -503,6 +519,14 @@
             }
         },
         {
+            "Key": "6df4b277-336a-473d-afad-40110ed11b58",
+            "Value": {
+                "id": "4d1ae7b5-58f1-4e75-a852-f32456fd5d1e",
+                "resourcePath": "rooms\\rm_allow_data_uri_test\\rm_allow_data_uri_test.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "6ebd1d73-ff88-45c7-b418-3b9d264ba9a9",
             "Value": {
                 "id": "e9e7c469-cbc0-43a9-98f9-40726072225d",
@@ -732,6 +756,14 @@
                 "id": "4c24ed44-c02f-4b12-85d7-4d1410ff627e",
                 "resourcePath": "sprites\\sCongrat\\sCongrat.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9edda8ac-d616-46af-95b1-2b24ef7a0f55",
+            "Value": {
+                "id": "d7ad2e47-c0a6-410a-8933-694f72fa2010",
+                "resourcePath": "extensions\\AllowDataURI\\AllowDataURI.yy",
+                "resourceType": "GMExtension"
             }
         },
         {

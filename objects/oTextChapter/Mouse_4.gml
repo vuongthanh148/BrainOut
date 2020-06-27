@@ -7,3 +7,4 @@ global.TAnswerChoose = false;
 global.AnswerChoose = false;
 
 oTButtonOK.set = false;
+global.download = false;

@@ -2,5 +2,6 @@
 // You can write your code in this editor
 if(!global.chapter_choose){
 	y = global.ExamScreen_Pos - 1312 + 1920;
+	//draw_text(200, global.ExamScreen_Pos ,string(global.addressIMG));
 	draw_self();
 }
