@@ -6,8 +6,9 @@ if(!global.chapter_choose && global.question_textTemp != "" && global.answerText
 	global.question_text_saver = global.question_textTemp;
 	global.curIndex = global.TcurIndex;
 	global.Answer = global.answerTextTemp;
-	sprite_replace(sQuestionImage,global.addressIMG,1,false,false,0,0);
+	sprite_replace(sQuestionImage,"https://cors-anywhere.herokuapp.com/" + global.addressIMG,1,false,false,0,0);
 	global.Oscale_question = global.scale_question;
+	//global.rightAns = 0;
 	check_error = false;
 }
 else check_error = true;

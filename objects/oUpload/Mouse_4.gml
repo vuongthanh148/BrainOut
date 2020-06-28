@@ -11,7 +11,7 @@ if(!global.chapter_choose){
 	if(max(sprite_get_width(sQuestionImageTemp),sprite_get_height(sQuestionImageTemp)) >= 350 && !oTQuestionImage.setScale){
 		global.scale_question = 350 / max(sprite_get_width(sQuestionImageTemp),sprite_get_height(sQuestionImageTemp));
 		oTQuestionImage.setScale = true;
-}
+	}
 	if(global.sound) {
 		audio_play_sound(Sound,1,false);
 	} 

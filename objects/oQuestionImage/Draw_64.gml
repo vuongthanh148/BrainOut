@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+
 y = 500 - sprite_height/2;
 x = global.playScreen_Pos - sprite_width/2;
 image_xscale = global.Oscale_question;
