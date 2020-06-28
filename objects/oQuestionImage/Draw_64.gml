@@ -2,8 +2,8 @@
 // You can write your code in this editor
 y = 500 - sprite_height/2;
 x = global.playScreen_Pos - sprite_width/2;
-image_xscale = global.scale_question;
-image_yscale = global.scale_question;
+image_xscale = global.Oscale_question;
+image_yscale = global.Oscale_question;
 global.question_text = global.question_text_saver;
 draw_set_font(boldquestion);
 draw_set_color(c_black);

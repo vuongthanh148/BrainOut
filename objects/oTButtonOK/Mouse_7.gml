@@ -7,6 +7,7 @@ if(!global.chapter_choose && global.question_textTemp != "" && global.answerText
 	global.curIndex = global.TcurIndex;
 	global.Answer = global.answerTextTemp;
 	sprite_replace(sQuestionImage,global.addressIMG,1,false,false,0,0);
+	global.Oscale_question = global.scale_question;
 	check_error = false;
 }
 else check_error = true;
