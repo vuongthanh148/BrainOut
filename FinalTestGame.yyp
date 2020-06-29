@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "3792ac70-6ec6-435e-9a0a-97d2d99d9388",
+            "Value": {
+                "id": "2c6bd22d-0817-4dfe-924d-4636101238a2",
+                "resourcePath": "sprites\\sCloseButton\\sCloseButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "388a52b2-7235-4b35-9adf-734c19275438",
             "Value": {
                 "id": "49f41003-6d60-4cc8-9490-8d8385003855",
@@ -935,6 +943,14 @@
             }
         },
         {
+            "Key": "c74d9ac9-a2bc-4804-bbaf-625e7c050392",
+            "Value": {
+                "id": "e4995975-fb30-4335-bb73-37008892404b",
+                "resourcePath": "sprites\\sHintButton\\sHintButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c953c2a8-ce1e-438a-b667-5121ce13e7dc",
             "Value": {
                 "id": "8f16955c-03bf-4728-b298-7e7ce84f83c5",
@@ -967,6 +983,14 @@
             }
         },
         {
+            "Key": "d04dc7f1-543b-448e-a266-c3c05808c6d2",
+            "Value": {
+                "id": "d92b2c4a-27aa-4169-aaee-58a5bd3f41dc",
+                "resourcePath": "objects\\oCloseButton\\oCloseButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d1294fb7-4477-4e78-95d7-19dd31348c0a",
             "Value": {
                 "id": "ab9dbbaf-d26d-4af4-baad-149c1f52f808",
@@ -996,6 +1020,14 @@
                 "id": "5f24c3d0-78ea-42b6-88dc-c68d5b62a580",
                 "resourcePath": "sounds\\Sound\\Sound.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "d8674b47-7010-497a-8380-11625f3b96e7",
+            "Value": {
+                "id": "41c35384-6a13-464c-b11c-fe7fa75eb816",
+                "resourcePath": "sprites\\sSkipButton\\sSkipButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

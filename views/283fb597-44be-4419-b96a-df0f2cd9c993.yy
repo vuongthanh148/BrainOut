@@ -19,7 +19,8 @@
         "4a3dd39c-2e6f-4886-b5c2-872ac65828d2",
         "d484b6fd-f18e-448e-8d5a-d5af4c69c5bd",
         "627eaa6a-8754-461b-b927-f51141250486",
-        "ecdd4772-7db8-4a20-8c54-d075fc09a496"
+        "ecdd4772-7db8-4a20-8c54-d075fc09a496",
+        "d04dc7f1-543b-448e-a266-c3c05808c6d2"
     ],
     "filterType": "GMObject",
     "folderName": "playScreen",
