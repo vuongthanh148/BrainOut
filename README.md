@@ -1,7 +1,6 @@
 # Brain Out
- ## A small chapter of the Brain Out game <br>
+ ## A small chapter of the Brain Out game 
  ## Link download: https://drive.google.com/file/d/1MFYu5YCjWaYcAbtIaZv_MQGws2RD_chk/view?usp=sharing
-  <br>
  ## Hướng dẫn: <br> <br>
  Màn hình chính: <br>
 ![A](https://i.imgur.com/7dj79Sw.png)
