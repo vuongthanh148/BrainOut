@@ -1,6 +1,11 @@
 # Brain Out
  ## A small chapter of the Brain Out game 
- ## Link download: https://drive.google.com/file/d/1MFYu5YCjWaYcAbtIaZv_MQGws2RD_chk/view?usp=sharing
+  ### Phần mềm sử dụng: 
+      - Gamemaker Studio 2
+      - Adobe Photoshop
+      - Adobe Premiere
+      
+ ## [Bấm vào đây để tải phần mềm phiên bản đầy đủ (window)](https://drive.google.com/file/d/1MFYu5YCjWaYcAbtIaZv_MQGws2RD_chk/view?usp=sharing)
  ## Hướng dẫn: <br> <br>
  Màn hình chính: <br>
 ![A](https://i.imgur.com/7dj79Sw.png)
