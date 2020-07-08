@@ -5,7 +5,7 @@
       - Adobe Photoshop
       - Adobe Premiere
       
- ## [Bấm vào đây để tải phần mềm phiên bản đầy đủ (window)](https://drive.google.com/file/d/1MFYu5YCjWaYcAbtIaZv_MQGws2RD_chk/view?usp=sharing)
+ ## [Bấm vào đây để tải phần mềm phiên bản đầy đủ (window)](https://drive.google.com/file/d/1Q5hgasmEwmCebuKZuem2IqScpnmK-ppc/view?usp=sharing)
  ## [Bấm vào đây để truy cập web deploy](https://vuongthanh148.github.io/BrainOut/)
  ## Hướng dẫn: <br> <br>
  Màn hình chính: <br>
