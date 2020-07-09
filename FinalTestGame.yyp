@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "17e11c5d-c057-47a8-95d3-5556b2703d83",
+            "Value": {
+                "id": "204a63f2-d08b-4ce9-8110-7a8fd808d041",
+                "resourcePath": "objects\\oCloseButton\\oCloseButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "19169529-307b-45e8-85bf-00bb71da678f",
             "Value": {
                 "id": "8118eb63-0478-4dde-983b-7276df4927f7",
@@ -252,6 +260,14 @@
                 "id": "eb215787-2e0d-4eac-92e2-46b5fd02504e",
                 "resourcePath": "views\\283fb597-44be-4419-b96a-df0f2cd9c993.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2988e58c-1855-4508-8425-1f6e0346ca6b",
+            "Value": {
+                "id": "7b61ca4d-66f1-459b-a1fd-79214bae1826",
+                "resourcePath": "sprites\\sHintButton\\sHintButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -991,6 +1007,14 @@
             }
         },
         {
+            "Key": "bff0b590-f66f-4493-8613-19fcc350613e",
+            "Value": {
+                "id": "db1b57a0-ad1b-49b2-8999-e303533ef32b",
+                "resourcePath": "sprites\\sCloseButton\\sCloseButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c06bfaa8-79db-46cf-b80f-7449a722ce59",
             "Value": {
                 "id": "8840c6cb-b3ac-4043-ad0b-b04334bab594",
@@ -1020,6 +1044,14 @@
                 "id": "f8dedd7d-5936-4678-bb2d-e4738a73db47",
                 "resourcePath": "views\\c6e6d6a7-ef20-4359-b655-662820beaadb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c75e4af1-a595-451b-bfb1-b7512374363c",
+            "Value": {
+                "id": "ee5f6524-61b6-49d1-97db-fa5db5f8f781",
+                "resourcePath": "sprites\\sSkipButton\\sSkipButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

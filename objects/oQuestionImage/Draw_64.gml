@@ -6,7 +6,7 @@ if(max(sprite_get_width(sQuestionImage),sprite_get_height(sQuestionImage)) >= 35
 }
 y = 500 - sprite_height/2;
 x = global.playScreen_Pos - sprite_width/2;
-draw_text(150,200,global.Oscale_question);
+//draw_text(150,200,global.Oscale_question);
 image_xscale = global.Oscale_question;
 image_yscale = global.Oscale_question;
 global.question_text = global.question_text_saver;

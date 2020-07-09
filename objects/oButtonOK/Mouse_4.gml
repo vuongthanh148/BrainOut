@@ -1,4 +1,6 @@
 if(global.play_open && !global.pause){
+	press = true;
+	global.Answered = true;
 	/// @description Insert description here
 	// You can write your code in this editor
 	image_index = 0;
