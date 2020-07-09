@@ -4,10 +4,9 @@
       - Gamemaker Studio 2
       - Adobe Photoshop
       - Adobe Premiere
-
+      
  ## [Bấm vào đây để tải phần mềm phiên bản đầy đủ (window)](https://drive.google.com/file/d/1Q5hgasmEwmCebuKZuem2IqScpnmK-ppc/view?usp=sharing)
  ## [Bấm vào đây để truy cập web deploy](https://vuongthanh148.github.io/BrainOut/)
-
  ## Hướng dẫn: <br> <br>
  Màn hình chính: <br>
 ![A](https://i.imgur.com/7dj79Sw.png)
