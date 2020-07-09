@@ -24,22 +24,3 @@ image_xscale = scale;
 image_yscale = scale;
 
 x = global.playScreen_Pos;
-if(global.hint){
-	timer ++;
-	global.exitButton = true;
-	global.pause = true;
-	if(s1 < 1.1){	
-		if(up2) s1 +=0.04;
-		else{
-			if(s1 > 1){
-				s1 -= 0.04;
-			}
-		}
-	}
-	else{
-		s1 = 1.1 - 0.001;
-		up2 = false;
-	}
-	//draw_sprite_ext(sPause,0,global.playScreen_Pos,650,1,1,0,-1,0.6);
-	draw_sprite_ext(sHintButton,0,global.playScreen_Pos,650,s1,s1,0,-1,1);
-}

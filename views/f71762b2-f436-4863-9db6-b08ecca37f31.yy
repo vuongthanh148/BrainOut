@@ -19,10 +19,7 @@
         "68a2f55d-c100-4faa-a56c-62246a31794a",
         "a4baedd0-3959-40e0-bd4b-0356cb043545",
         "b3e877f1-c541-4e76-bd89-81bbbc421b35",
-        "9ff3b685-b436-483a-9f22-6b9559010741",
-        "3792ac70-6ec6-435e-9a0a-97d2d99d9388",
-        "c74d9ac9-a2bc-4804-bbaf-625e7c050392",
-        "d8674b47-7010-497a-8380-11625f3b96e7"
+        "9ff3b685-b436-483a-9f22-6b9559010741"
     ],
     "filterType": "GMSprite",
     "folderName": "playScreen",
