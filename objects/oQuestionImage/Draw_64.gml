@@ -1,11 +1,16 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+if(max(sprite_get_width(sQuestionImage),sprite_get_height(sQuestionImage)) >= 350 && !oTQuestionImage.setScale){
+		global.Oscale_question = 350 / max(sprite_get_width(sQuestionImage),sprite_get_height(sQuestionImage));
+		oTQuestionImage.setScale = true;
+}
 y = 500 - sprite_height/2;
 x = global.playScreen_Pos - sprite_width/2;
+draw_text(150,200,global.Oscale_question);
 image_xscale = global.Oscale_question;
 image_yscale = global.Oscale_question;
 global.question_text = global.question_text_saver;
+
 draw_set_font(boldquestion);
 draw_set_color(c_black);
 image_index = global.curIndex;
