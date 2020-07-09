@@ -3,10 +3,9 @@
 //draw_text(200,200,global.scale_question);
 //draw_text(200,100,max(sprite_get_width(sQuestionImageTemp),sprite_get_height(sQuestionImageTemp)));
 if(max(sprite_get_width(sQuestionImageTemp),sprite_get_height(sQuestionImageTemp)) >= 350 && !oTQuestionImage.setScale){
-		global.scale_question = 350 / max(sprite_get_width(sQuestionImageTemp),sprite_get_height(sQuestionImageTemp));
+		global.scale_question = 350 / max(sprite_get_width(sQuestionImageTemp),sprite_get_height(sQuestionImageTemp));			
 		oTQuestionImage.setScale = true;
 }
-
 image_xscale = global.scale_question;
 image_yscale = global.scale_question;
 y = global.ExamScreen_Pos + 1920 - 1312 - sprite_height/2;

@@ -30,11 +30,14 @@ oIcAns.s1 = 0;
 oIcAns.up = true;
 oIcAns.done = false;
 oHand.y = 1805;
-oTQuestionImage.setScale = false;
+oQuestionImage.setScale = false;
 
 	audio_stop_sound(Right); 
 
-switch (global.questionNumber) {
+switch (global.questionNumber){
+	case 0:
+		global.questionNumber = 1;
+		break;
 	case 1: 
 		sprite_replace(sQuestionImage,"https://cors-anywhere.herokuapp.com/" + "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Banana-Single.jpg/680px-Banana-Single.jpg",1,false,false,0,0);
 		global.question_text_saver = "What color is this banana?";
@@ -42,13 +45,13 @@ switch (global.questionNumber) {
 		global.questionNumber = 2;
 		break;
 	case 2:
-		sprite_replace(sQuestionImage,"https://i.imgur.com/NFhdE9L.png",1,false,false,0,0);
+		sprite_replace(sQuestionImage,"https://i.imgur.com/C7iLlAl.png?1",1,false,false,0,0);
 		global.question_text_saver = "How many triangles are in a Pentagram?";
 		global.Answer = "11";
 		global.questionNumber = 3;
 		break;
 	case 3:
-		sprite_replace(sQuestionImage,"https://i.imgur.com/jN9RtpV.png",1,false,false,0,0);
+		sprite_replace(sQuestionImage,"https://i.imgur.com/oy6tre6.png",1,false,false,0,0);
 		global.question_text_saver = "How many apple are there on the tree?";
 		global.Answer = "19";
 		global.questionNumber = 4;
@@ -78,11 +81,15 @@ switch (global.questionNumber) {
 		oIcAns.up = true;
 		oIcAns.done = false;
 		oHand.y = 1805;
+		sprite_replace(sQuestionImage,"https://i.imgur.com/aVdElyZ.png",1,false,false,0,0);
+		global.question_text_saver = "What is the maximum number of pieces that a watermelon can be cut into with 10 cuts?";
+		global.Answer = "1024";
+		global.questionNumber = 1;
 		break;
 }
-if(max(sprite_get_width(sQuestionImage),sprite_get_height(sQuestionImage)) >= 350 && !oTQuestionImage.setScale){
+if(max(sprite_get_width(sQuestionImage),sprite_get_height(sQuestionImage)) >= 350 && !oQuestionImage.setScale){
 		global.Oscale_question = 350 / max(sprite_get_width(sQuestionImage),sprite_get_height(sQuestionImage));
-		oTQuestionImage.setScale = true;
+		oQuestionImage.setScale = true;
 }
 else global.Oscale_question = 1;
 

@@ -13,4 +13,8 @@ global.TAnswerChoose = false;
 global.AnswerChoose = false;
 
 global.answerText = "";
+sprite_replace(sQuestionImage,"https://i.imgur.com/aVdElyZ.png",1,false,false,0,0);
+global.question_text_saver = "What is the maximum number of pieces that a watermelon can be cut into with 10 cuts?";
+global.Answer = "1024";
+global.questionNumber = 1;
 }
